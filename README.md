@@ -6,7 +6,7 @@ Companion App for PONDER water testing device. Written in Kotlin for Android 10 
 Support for both light and dark system themes.
 Displays all data in real time, and a gps location that opens the default mapping application on the device when tapped.
 
-![Livetrack image](https://user-images.githubusercontent.com/58045054/194792000-776155f6-a783-4277-9082-339a7c45620c.jpg = 200x450) 
+![Livetrack image](https://user-images.githubusercontent.com/58045054/194792000-776155f6-a783-4277-9082-339a7c45620c.jpg =200x450) 
 
 ![livetrack light](https://user-images.githubusercontent.com/58045054/194792001-7730002b-379b-45b3-877f-84151e61ca7e.jpg)
 
